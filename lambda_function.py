@@ -6,6 +6,6 @@ print('Loading function')
 
 def lambda_handler(event, context):
     print('hello world.')
-    return 'hello world.'
+    return 'demo update function.'
 
 
